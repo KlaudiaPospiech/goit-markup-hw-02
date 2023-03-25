@@ -1,1 +1,1 @@
-https://github.com/KlaudiaPospiech/goit-markup-hw-01.git
+https://klaudiapospiech.github.io/goit-markup-hw-02/
